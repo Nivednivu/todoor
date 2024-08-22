@@ -1,0 +1,28 @@
+/* .aa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:50vh ;
+    border-radius: 10px;
+    padding: 5px;
+    color: red;
+    border: 5px;
+    border-color: black;
+} */
+.cc{
+    margin-left: 420px;
+    margin-top: 50px;
+    border: 10px;
+    border-radius: 5%;
+    box-shadow: inset;
+    box-sizing: border-box;
+    background-color: rgb(239, 241, 245);
+    padding: 15px;
+    width: 600PX;
+    font: bold;
+    font-size: large;
+}
+.ee{
+    margin-left: 30px;
+    
+}
